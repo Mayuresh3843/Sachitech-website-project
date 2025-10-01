@@ -1,10 +1,9 @@
 # 🌐 Sachitech Website Project  
 
 This is the official website of **Sachitech Training Institute**, developed during my internship.  
-The site is **live and hosted** till date, showcasing the institute’s training programs, contact information, and services.  
+The site is **live and hosted** to date, showcasing the institute’s training programs, contact information, and services.  
 
-🔗 **Live Website:** [Visit Here](https://www.sachitech.com)  
-📂 **Repository:** [GitHub Link](https://github.com/yourusername/Sachitech-website-project)  
+🔗 **Live Website:** [Visit Here](https://www.sachitech.in/)   
 
 ---
 
@@ -27,14 +26,30 @@ The site is **live and hosted** till date, showcasing the institute’s training
 
 ---
 
-## 📸 Screenshots
-![Homepage Screenshot](./screenshots/homepage.png)  
-*(Add more screenshots for About/Courses/Contact pages if possible)*  
+
+## ✍️ My Contribution  
+
+During my internship at **Sachitech Training Institute**, I actively contributed to the design and development of the institute’s official website. My specific contributions include:  
+
+🔹 **Frontend Development**: Built responsive pages using **HTML5, CSS3, Bootstrap, and JavaScript**.  
+🔹 **UI/UX Enhancements**: Designed a clean, modern layout and added interactive components.  
+🔹 **Content Integration**: Added institute details, course descriptions, banners, and contact info.  
+🔹 **Team Collaboration**: Worked with fellow interns to divide and implement different modules.  
+🔹 **Recognition**: My name and my group members’ names are credited in the **footer of the live website**.  
 
 ---
 
 ## 🚀 Getting Started (Run Locally)
 
 1. Clone the repository:
-   ```bash
+   
+```bash
    git clone https://github.com/yourusername/Sachitech-website-project.git
+```
+2.  Navigate to the folder:
+```bash
+  cd Sachitech-website-project
+
+```
+3. Open index.html in your browser.
+
