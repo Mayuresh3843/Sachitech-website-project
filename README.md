@@ -44,7 +44,7 @@ During my internship at **Sachitech Training Institute**, I actively contributed
 1. Clone the repository:
    
 ```bash
-   git clone https://github.com/yourusername/Sachitech-website-project.git
+   git clone https://github.com/Mayuresh3843/Sachitech-website-project.git
 ```
 2.  Navigate to the folder:
 ```bash
