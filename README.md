@@ -53,3 +53,20 @@ During my internship at **Sachitech Training Institute**, I actively contributed
 ```
 3. Open index.html in your browser.
 
+## 📸 Screenshots  
+
+### ![Badge](https://img.shields.io/badge/Homepage-lightblue?style=for-the-badge)
+![Homepage Screenshot](./screenshots/homepage.png)  
+
+### ![Badge](https://img.shields.io/badge/About%20Us-darkgreen?style=for-the-badge)
+![About Us Screenshot](./screenshots/About.png)  
+
+### ![Badge](https://img.shields.io/badge/Gallery-purple?style=for-the-badge)
+![Gallery Screenshot](./screenshots/gallery.png)  
+
+### ![Badge](https://img.shields.io/badge/Contact-Page-orange?style=for-the-badge)
+![Contact Screenshot](./screenshots/Contact.png)  
+
+### ![Badge](https://img.shields.io/badge/Footer-Credits-grey?style=for-the-badge)
+![Footer Screenshot](./screenshots/footercredits.png)  
+
